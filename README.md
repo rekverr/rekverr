@@ -4,52 +4,7 @@
 
 ###
 
-<div align="center">
-  <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybzRqcm1tbjl1ejE3ajVnYWw1NGFtdWYxYTBsbXFnNTFpdmhqdmJ5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jdFm2bcWlj4EUVCpc0/200w.gif" />
-</div>
-
-###
-
-<div align="center">
-  <a
-    href="https://www.linkedin.com/in/viktor-shchehelskyi/"
-    target="_blank"
-    style="text-decoration:none; line-height:0; display:inline-block;"
-  >
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-      width="37"
-      height="25"
-      alt="linkedin"
-    />
-  </a>
-
-  <a
-    href="https://t.me/shchehelskyii"
-    target="_blank"
-    style="text-decoration:none; line-height:0; display:inline-block;"
-  >
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
-      width="37"
-      height="25"
-      alt="telegram"
-    />
-  </a>
-
-  <a
-    href="https://www.instagram.com/viktor.shchehelskyi/"
-    target="_blank"
-    style="text-decoration:none; line-height:0; display:inline-block;"
-  >
-    <img
-      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-      width="37"
-      height="25"
-      alt="instagram"
-    />
-  </a>
-</div>
+<div align="center"> <a href="https://www.linkedin.com/in/viktor-shchehelskyi/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" /> </a> <a href="https://t.me/shchehelskyii" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo" /> </a> <a href="https://www.instagram.com/viktor.shchehelskyi/" target="_blank"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo" /> </a> </div>
 
 ###
 
