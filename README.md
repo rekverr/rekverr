@@ -1,30 +1,30 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Viktor%20Shchehelskyi&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Viktor%20Shchehelskyi&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybzRqcm1tbjl1ejE3ajVnYWw1NGFtdWYxYTBsbXFnNTFpdmhqdmJ5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jdFm2bcWlj4EUVCpc0/200w.gif"  />
+  <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybzRqcm1tbjl1ejE3ajVnYWw1NGFtdWYxYTBsbXFnNTFpdmhqdmJ5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jdFm2bcWlj4EUVCpc0/200w.gif" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/viktor-shchehelskyi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" />
   </a>
   <a href="https://t.me/shchehelskyii" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo" />
   </a>
   <a href="https://www.instagram.com/viktor.shchehelskyi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo" />
   </a>
 </div>
 
 ###
 
-<h2 align="left">Hi there 👋</h2>
+<h1 align="left">Hi there 👋</h1>
 
 ###
 
@@ -79,7 +79,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=rekverr&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=rekverr&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
 
 ###
