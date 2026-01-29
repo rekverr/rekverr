@@ -11,14 +11,34 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/viktor-shchehelskyi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/viktor-shchehelskyi/" target="_blank" style="text-decoration:none;">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="37"
+      height="25"
+      alt="linkedin"
+      style="display:block;"
+    />
   </a>
-  <a href="https://t.me/shchehelskyii" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="37" height="25" alt="telegram logo" />
+
+  <a href="https://t.me/shchehelskyii" target="_blank" style="text-decoration:none;">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
+      width="37"
+      height="25"
+      alt="telegram"
+      style="display:block;"
+    />
   </a>
-  <a href="https://www.instagram.com/viktor.shchehelskyi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo" />
+
+  <a href="https://www.instagram.com/viktor.shchehelskyi/" target="_blank" style="text-decoration:none;">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+      width="37"
+      height="25"
+      alt="instagram"
+      style="display:block;"
+    />
   </a>
 </div>
 
@@ -67,14 +87,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/rekverr/rekverr/output/snake.svg" alt="Snake animation" />
 
 ###
 
