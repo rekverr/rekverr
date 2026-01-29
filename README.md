@@ -11,33 +11,42 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/viktor-shchehelskyi/" target="_blank" style="text-decoration:none;">
+  <a
+    href="https://www.linkedin.com/in/viktor-shchehelskyi/"
+    target="_blank"
+    style="text-decoration:none; line-height:0; display:inline-block;"
+  >
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
       width="37"
       height="25"
       alt="linkedin"
-      style="display:block;"
     />
   </a>
 
-  <a href="https://t.me/shchehelskyii" target="_blank" style="text-decoration:none;">
+  <a
+    href="https://t.me/shchehelskyii"
+    target="_blank"
+    style="text-decoration:none; line-height:0; display:inline-block;"
+  >
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg"
       width="37"
       height="25"
       alt="telegram"
-      style="display:block;"
     />
   </a>
 
-  <a href="https://www.instagram.com/viktor.shchehelskyi/" target="_blank" style="text-decoration:none;">
+  <a
+    href="https://www.instagram.com/viktor.shchehelskyi/"
+    target="_blank"
+    style="text-decoration:none; line-height:0; display:inline-block;"
+  >
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
       width="37"
       height="25"
       alt="instagram"
-      style="display:block;"
     />
   </a>
 </div>
@@ -63,6 +72,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -81,7 +92,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />  
 </div>
 
 ###
