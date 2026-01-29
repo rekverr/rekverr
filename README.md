@@ -12,8 +12,8 @@ Frontend Developer 🚀
 - HTML / CSS / Sass / Tailwind / Bulma
 - Git / GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?rekverr=USERNAME&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rekverr=USERNAME&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?rekverr=REKVERR&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rekverr=REKVERR&layout=compact)
 
 
 
