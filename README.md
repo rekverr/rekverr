@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi 👋 I'm Viktor
+Frontend Developer 🚀  
+React • TypeScript • Next.js
 
-<!--
-**rekverr/rekverr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- JavaScript (ES6+)
+- TypeScript
+- React / Next.js
+- HTML / CSS / Sass / Tailwind
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Projects
+- 🛒 **Online Store** — React, Node.js, MongoDB
+- 🎮 **2048 Game** — Vanilla JS
+- ✅ **Todo App** — React + API
+
+---
+
+### 📫 Contacts
+- Email: victorshegelsky@email.com
+- LinkedIn: [link](https://www.linkedin.com/in/viktor-shchehelskyi/)
