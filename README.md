@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Viktor
 Frontend Developer 🚀  
-React • TypeScript • Next.js
+React • TypeScript
 
 ---
 
@@ -8,7 +8,7 @@ React • TypeScript • Next.js
 - JavaScript (ES6+)
 - TypeScript
 - React / Next.js
-- HTML / CSS / Sass / Tailwind
+- HTML / CSS / Sass / Tailwind / Bulma
 - Git / GitHub
 
 ---
@@ -16,7 +16,6 @@ React • TypeScript • Next.js
 ### 📌 Projects
 - 🛒 **Online Store** — React, Node.js, MongoDB
 - 🎮 **2048 Game** — Vanilla JS
-- ✅ **Todo App** — React + API
 
 ---
 
