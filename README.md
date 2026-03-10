@@ -1,41 +1,78 @@
-# Hi 👋, I'm Viktor
+# Hi 👋 I'm Viktor
 
-### Frontend Developer from Ukraine 🇺🇦
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%7C+TypeScript+Developer;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
-💻 I’m passionate about web development  
-🚀 Currently learning **React, TypeScript, Redux, Next.js**  
-📚 Studying **Full-Stack Development**  
-🎯 Goal: Become a **Strong Frontend / Full-Stack Developer**
+Frontend Developer with commercial experience at **Insiders**.  
+I build modern and responsive web applications using **React, TypeScript, Redux and Next.js**.
 
----
-
-### 🌐 Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](LINKEDIN)
+• REST API integration  
+• Real-time features with WebSockets  
+• Unit testing (Jest) and E2E testing (Cypress)  
+• Agile development (Scrum / Kanban)
 
 ---
 
-### 🛠️ Tech Stack
+# 🌐 Connect with me
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/YOUR_USERNAME)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+
+### Styling
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![MaterialUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+
+### Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier)
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Viktor's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+# 🧠 Algorithms
+
+![CodeWars](https://img.shields.io/badge/Codewars-100%2B%20Katas-red?style=for-the-badge&logo=codewars)
+
+Solved **100+ algorithmic challenges** on CodeWars.
+
+---
+
+# 🌍 Languages
+
+English — Intermediate
