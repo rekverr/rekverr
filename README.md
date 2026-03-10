@@ -14,11 +14,11 @@ I build modern and responsive web applications using **React, TypeScript, Redux 
 
 # 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/viktor-shchehelskyi/)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/YOUR_USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/shchehelskyii)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktor.shchehelskyi@gmail.com)
 
 ---
 
@@ -55,24 +55,10 @@ I build modern and responsive web applications using **React, TypeScript, Redux 
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rekverr&show_icons=true&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-# 🧠 Algorithms
-
-![CodeWars](https://img.shields.io/badge/Codewars-100%2B%20Katas-red?style=for-the-badge&logo=codewars)
-
-Solved **100+ algorithmic challenges** on CodeWars.
-
----
-
-# 🌍 Languages
-
-English — Intermediate
+![GitHub Streak](https://streak-stats.demolab.com/?user=rekverr&theme=tokyonight)
