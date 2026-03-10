@@ -1,6 +1,5 @@
-# Hi 👋 I'm Viktor
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%7C+TypeScript+Developer;Building+Modern+Web+Applications)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Viktor</h1>
+<h3 align="center">Frontend Developer | React | TypeScript | Next.js</h3>
 
 Frontend Developer with commercial experience at **Insiders**.  
 I build modern and responsive web applications using **React, TypeScript, Redux and Next.js**.
