@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Viktor</h1>
 <h3>Frontend Developer | React | TypeScript | Next.js</h3>
 
-Frontend Developer with commercial experience at Insiders, building responsive and user-focused web apps with TypeScript, JavaScript, React, and Redux. Experienced in REST API integration, real-time features with WebSockets, unit & end-to-end testing, and Agile workflows using Jira and Trello. Focused on clean, maintainable code and modern styling.
+Frontend Developer focused on building responsive and user-friendly web applications with TypeScript, JavaScript, React, and Redux. Familiar with REST APIs, WebSockets, unit and end-to-end testing, and Agile workflows using Jira and Trello. Interested in writing clean, maintainable code and continuously improving frontend development skills.
 
 ---
 
