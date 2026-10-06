@@ -1,7 +1,15 @@
 <h1>Hi 👋, I'm Viktor</h1>
-<h3>Frontend Developer | React | TypeScript | Next.js</h3>
+<h3>Full-Stack Developer | React | Next.js | Node.js | NestJS | </h3>
 
-Frontend Developer focused on building responsive and user-friendly web applications with TypeScript, JavaScript, React, and Redux. Familiar with REST APIs, WebSockets, unit and end-to-end testing, and Agile workflows using Jira and Trello. Interested in writing clean, maintainable code and continuously improving frontend development skills.
+Full-Stack Developer with 1+ year of commercial experience building and
+maintaining modern web applications across frontend and backend.
+Experienced with TypeScript, React, Next.js, Node.js, NestJS, PostgreSQL,
+Prisma, Redis, REST APIs, WebSockets, and Docker. Comfortable
+developing features end-to-end — from responsive user interfaces and
+state management to backend business logic, authentication, database
+design, caching, and API integrations. Strong focus on clean,
+maintainable code, performance, scalability, and practical problem
+solving.
 
 ---
 
