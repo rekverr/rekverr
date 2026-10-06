@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Viktor</h1>
-<h3>Full-Stack Developer | React | Next.js | Node.js | NestJS | </h3>
+<h3>Full-Stack Developer | React | Next.js | Node.js | NestJS </h3>
 
 Full-Stack Developer with 1+ year of commercial experience building and
 maintaining modern web applications across frontend and backend.
